@@ -1,1 +1,2 @@
-Hello,my name is xinqian
+Hello,my name is xinqian.
+Hi,try again.
